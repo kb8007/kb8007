@@ -21,6 +21,9 @@
 ### 👨‍💻 Languages and Tools:
 
 <img align="left" alt="Python" width="28px" src="https://github.com/kb8007/kb8007/blob/main/Assets/python.png" />
+<img align="left" alt="Dart" width="28px" src="https://github.com/kb8007/kb8007/blob/main/Assets/dart.png" />
+<img align="left" alt="Flutter" width="28px" src="https://github.com/kb8007/kb8007/blob/main/Assets/flutter.png" />
+<img align="left" alt="Tensoflow" width="28px" src="https://github.com/kb8007/kb8007/blob/main/Assets/tensorflow.png" />
 <img align="left" alt="Java" width="28px" src="https://github.com/kb8007/kb8007/blob/main/Assets/java.png" />
 <img align="left" alt="HTML5" width="28px" src="https://github.com/kb8007/kb8007/blob/main/Assets/html.png" />
 <img align="left" alt="CSS3" width="28px" src="https://github.com/kb8007/kb8007/blob/main/Assets/css.png" />
