@@ -1,5 +1,8 @@
 ### Hi there, I'm Kamel Benchehida <img src="https://github.com/kb8007/kb8007/blob/main/Assets/Hi.gif" width="22px"> 
 <p>
+ <a href="https://www.upwork.com/freelancers/~013cf6541378e7aaca" target="_blank">
+  <img align="center" alt="Kamel Benchehida | UpWork" width="26px" src="https://github.com/kb8007/kb8007/blob/main/Assets/upwork.svg" />
+</a> &nbsp;&nbsp;
  <a href="https://kb8007.github.io/portfolio" target="_blank">
   <img align="center" alt="Kamel Benchehida | Portfolio" width="26px" src="https://github.com/kb8007/kb8007/blob/main/Assets/www.svg" />
 </a> &nbsp;&nbsp;
