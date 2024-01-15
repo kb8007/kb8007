@@ -19,7 +19,7 @@
 
 <hr>
 
-- 🌱 Currently I'm working as an Odoo developer
+- 🌱 Currently I'm working as an Odoo, ML & Python Developer
 - 👯 I’m looking to collaborate on Full Stack Development Projects
 
 <hr>
